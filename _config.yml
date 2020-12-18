@@ -9,7 +9,7 @@ name: Maks B.
 description: .NET Developer from Lviv
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/22330489?s=460&u=8febca5657ba0983e66b934130809dd2c7a8c9a6&v=4
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -36,7 +36,7 @@ footer-links:
 disqus: badijm
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 255761342
+google_analytics: G-2XX8NWQDV1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
