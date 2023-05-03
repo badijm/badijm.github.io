@@ -20,7 +20,7 @@ const Create = () => {
     Firebase.storage()
       .ref(`/image/${image.name}`)
       .put(image)
-      .then(({ ref }) => {
+      .then(({ref }) => {
         ref.getDownloadURL().then((url) => {
           Firebase.firestore()
             .collection("products")
@@ -108,6 +108,7 @@ const Create = () => {
         <br />
         <input
           type="file"
+          multiple="multiple"
           onChange={(e) => {
             setImage(e.target.files[0]);
           }}

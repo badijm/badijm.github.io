@@ -11,12 +11,6 @@ function Footer() {
             <p>POPULAR LOCATIONS</p>
           </div>
           <div className="list">
-            <ul>
-              <li>kolkata</li>
-              <li>Mumbai</li>
-              <li>Chennai</li>
-              <li>Pune</li>
-            </ul>
           </div>
         </div>
         <div>

@@ -37,7 +37,6 @@ function Banner() {
           </div>
         </div>
         <div className="banner">
-          <img src="../../../Images/banner copy.png" alt="" />
         </div>
       </div>
      { category!=null && <DynamicPosts category={category}/>  }
